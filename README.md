@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **backend development and react native.**
 
+- 📝 I’m working with **UI/UX** designer.
+
 
 
 <h3 align="left">Connect with me:</h3>
