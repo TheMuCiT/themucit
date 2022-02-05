@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, my name is Karolis</h1>
 <h3 align="center">I am React.js frontend developer from Lithuania.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=themucit&label=Profile%20views&color=0e75b6&style=flat" alt="themucit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themucit" alt="themucit" /></a> </p>
-
 - 🔭 I’m currently working **as a freelancer**
 
 - 🌱 I’m currently learning **backend development and react native.**
