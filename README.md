@@ -5,11 +5,12 @@
 
 - 🌱 I’m currently learning **backend development and react native.**
 
+
+
+<h3 align="left">Connect with me:</h3>
 - 📫 How to reach me [https://www.upwork.com/freelancers/~015f01f9f5844e868c](https://www.upwork.com/freelancers/~015f01f9f5844e868c)
 
 - 📫 How to reach me **https://www.fiverr.com/feikkonas**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
