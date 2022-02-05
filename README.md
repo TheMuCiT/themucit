@@ -10,7 +10,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me [upwork](https://www.upwork.com/freelancers/~015f01f9f5844e868c)
+- 📫 How to reach me <a href="https://www.upwork.com/freelancers/~015f01f9f5844e868c"target="_blank" rel="noreferrer"> Upwork</a>
 
 - 📫 How to reach me **https://www.fiverr.com/feikkonas**
 <p align="left">
