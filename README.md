@@ -16,7 +16,7 @@
 - 📫 How to reach me <a href="https://www.fiverr.com/feikkonas" target="_blank" rel="noreferrer">Fiverr</a>
 
 
-<h3 align="left">My project example:</h3>
+<h3 align="left">My project examples:</h3>
 
   - <a href="https://imo-invest.com/" target="_blank" rel="noreferrer">IMO-Invest</a>
   
