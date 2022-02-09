@@ -15,6 +15,17 @@
 
 - 📫 How to reach me <a href="https://www.fiverr.com/feikkonas" target="_blank" rel="noreferrer">Fiverr</a>
 
+
+<h3 align="left">My project example:</h3>
+  - <a href="https://imo-invest.com/" target="_blank" rel="noreferrer">IMO-Invest</a>
+  - <a href="https://nft-taxinhouse.netlify.app/" target="_blank" rel="noreferrer">NFT website without content</a>
+  - <a href="https://nft-jasonlin356.netlify.app/" target="_blank" rel="noreferrer">NFT website without content</a>
+  - <a href="https://pandalan-hukuk.netlify.app/" target="_blank" rel="noreferrer">Landing pages</a>
+  - <a href="https://bvoss.netlify.app/" target="_blank" rel="noreferrer">Dashboard</a>
+  - <a href="https://furiousapesociety.com/" target="_blank" rel="noreferrer">NFT website</a>
+  - <a href="https://nft-truststakingsrl.netlify.app/" target="_blank" rel="noreferrer">NFT website without content</a>
+
+
 <p align="left">
 </p>
 
