@@ -20,19 +20,33 @@
 
 <h3 align="left">My project examples:</h3>
 
+  - <a href="https://karolis-vilimas.netlify.app/" target="_blank" rel="noreferrer">My Portfolio Website</a>
+
   - <a href="https://imo-invest.com/" target="_blank" rel="noreferrer">IMO-Invest</a>
   
-  - <a href="https://nft-taxinhouse.netlify.app/" target="_blank" rel="noreferrer">NFT website without content</a>
+  - <a href="https://stoties10.lt/" target="_blank" rel="noreferrer">Real Estate</a>
   
-  - <a href="https://nft-jasonlin356.netlify.app/" target="_blank" rel="noreferrer">NFT website without content</a>
+  - <a href="https://liveaman.com/" target="_blank" rel="noreferrer">Insurance Website</a>
   
-  - <a href="https://pandalan-hukuk.netlify.app/" target="_blank" rel="noreferrer">Landing pages</a>
+  - <a href="https://pandalan-hukuk.netlify.app/" target="_blank" rel="noreferrer">Landing Page</a>
   
   - <a href="https://bvoss.netlify.app/" target="_blank" rel="noreferrer">Dashboard</a>
+  - 
+  - <a href="https://assetcurve.netlify.app/" target="_blank" rel="noreferrer">Dashboard</a>
   
-  - <a href="https://furiousapesociety.com/" target="_blank" rel="noreferrer">NFT website</a>
+  - <a href="https://tuannguyen516.netlify.app/" target="_blank" rel="noreferrer">Accounting and HR management Landing Page Website</a>
+ 
+  - <a href="https://marktutaj.netlify.app/" target="_blank" rel="noreferrer">VPN Landing Page Website</a> 
   
-  - <a href="https://nft-truststakingsrl.netlify.app/" target="_blank" rel="noreferrer">NFT website without content</a>
+  - <a href="https://drewfalkman.netlify.app/" target="_blank" rel="noreferrer">NFT Website</a> 
+  
+  - <a href="https://jsyversen.netlify.app/" target="_blank" rel="noreferrer">Landing Page</a> 
+  
+  - <a href="https://benhardmarcus.netlify.app/" target="_blank" rel="noreferrer">E-Commerce Website (Only Frontend)</a> 
+  
+  - <a href="https://martial-rabbits.netlify.app/" target="_blank" rel="noreferrer">NFT Website</a> 
+  
+  - <a href="https://nft-truststakingsrl.netlify.app/" target="_blank" rel="noreferrer">NFT Website (Without Content)</a>
   
 
 
