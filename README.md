@@ -31,7 +31,7 @@
   - <a href="https://pandalan-hukuk.netlify.app/" target="_blank" rel="noreferrer">Landing Page</a>
   
   - <a href="https://bvoss.netlify.app/" target="_blank" rel="noreferrer">Dashboard</a>
-  - 
+  
   - <a href="https://assetcurve.netlify.app/" target="_blank" rel="noreferrer">Dashboard</a>
   
   - <a href="https://tuannguyen516.netlify.app/" target="_blank" rel="noreferrer">Accounting and HR management Landing Page Website</a>
