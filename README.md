@@ -17,10 +17,11 @@
 
 - 📫 How to reach me <a href="https://www.fiverr.com/feikkonas" target="_blank" rel="noreferrer">Fiverr</a>
 
+<h3 align="left">Personal website</h3>
+
+   <a href="https://karolis-vilimas.netlify.app/" target="_blank" rel="noreferrer">My Portfolio Website</a>
 
 <h3 align="left">My project examples:</h3>
-
-  - <a href="https://karolis-vilimas.netlify.app/" target="_blank" rel="noreferrer">My Portfolio Website</a>
 
   - <a href="https://imo-invest.com/" target="_blank" rel="noreferrer">IMO-Invest</a>
   
